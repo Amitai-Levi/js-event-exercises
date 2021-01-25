@@ -1,0 +1,33 @@
+#gallery {
+  width: 400px;
+  height: 400px;
+  margin: auto;
+}
+.regular {
+  width: 25%;
+  height: 25%;
+  float: left;
+  position: relative;
+  margin-top: 400px;
+}
+.a {
+  background-color: green;
+}
+.b {
+  background-color: yellow;
+}
+.c {
+  background-color: blue;
+}
+.d {
+  background-color: red;
+}
+.e {
+  background-color: orange;
+}
+#main {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  margin-top: 0px;
+}
