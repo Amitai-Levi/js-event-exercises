@@ -1,12 +1,13 @@
-div {
-  width: 300px;
-  height: 200px;
-  margin: auto;
-  border-style: solid;
-  border-color: black;
+#field {
+  width: 100%;
+  height: 1000px;
+  background-color: chartreuse;
+  position: fixed;
 }
-button {
-  position: relative;
-  right: 5px;
-  top: 5px;
+#ball {
+  width: 100px;
+  height: 100px;
+  background-color: cornsilk;
+  border-radius: 50%;
+  position: absolute;
 }
