@@ -1,0 +1,12 @@
+.draggable {
+  width: 150px;
+  height: 150px;
+  margin: auto;
+  position: absolute;
+}
+body {
+  overflow: scroll;
+  /* height: 2000px; */
+  height: 1000px;
+  /* position: fixed; */
+}
